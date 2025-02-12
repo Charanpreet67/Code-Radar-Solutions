@@ -1,7 +1,7 @@
 #include<stdio.h>
 int num(){
     scanf("%d",&num);
-    int msb_mask = 1 << 32;
+    unsigned int msb_mask = 1U << 31;
     if (num & msb_mask){
         printf("Set");
     }else{
