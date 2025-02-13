@@ -4,19 +4,19 @@ int main() {
     int a;
     scanf("%d", &a);
     if(a>=90){
-        printf("A\n");
+        printf("A");
     }
     else if(a>=80 && a<90){
-        printf("B\n");
+        printf("B");
     }
     else if(a>=70 && < 80 ){
-        printf("C\n");
+        printf("C");
     }
     else if(a>=60 && <70){
-        printf("D\n");
+        printf("D");
     }
     else{
-        printf("F\n");
+        printf("F");
     }
     return 0;
 }
