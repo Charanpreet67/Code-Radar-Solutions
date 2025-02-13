@@ -16,7 +16,7 @@ int main() {
     else if(a>=60 && <70){
         printf("D\n");
     }
-    else if (a<60)
+    else if (a<60){
         printf("F\n");
     }
     else{
