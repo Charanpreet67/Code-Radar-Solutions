@@ -19,5 +19,8 @@ int main() {
     else if (a<60)
         printf("F\n");
     }
+    else{
+        ("Not any grade\n");
+    }
     return 0;
 }
