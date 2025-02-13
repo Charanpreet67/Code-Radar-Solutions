@@ -12,5 +12,6 @@ int main(){
         print("%d\n", c);
         
     }
+    return 0;
 
 }
