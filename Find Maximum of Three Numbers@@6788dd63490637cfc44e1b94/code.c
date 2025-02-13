@@ -3,13 +3,13 @@ int main(){
     int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
     if(a >= b && a>=c){
-        print("%d", a);
+        print("%\n", a);
     }
     else if(b >= a && b>=c){
-        print("%d", b);
+        print("%d\n", b);
     }
      else {
-        print("%d", c);
+        print("%d\n", c);
         
     }
 
