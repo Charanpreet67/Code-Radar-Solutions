@@ -10,7 +10,8 @@ int main() {
         } else {
             printf("Scalene Triangle\n");
         }
+        return 0;
     } 
     
 
-    return 0;
+    
