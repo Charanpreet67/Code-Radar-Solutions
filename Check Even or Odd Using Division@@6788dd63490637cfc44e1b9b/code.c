@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(){
-    int a;
+    int a, quotient;
     scanf("%d", %a);
-    if(a % 2 == 0){
+    quotient = num / 2;
+    if(num == quotient * 2){
         printf("Even");
     }else{
         printf("Odd")
