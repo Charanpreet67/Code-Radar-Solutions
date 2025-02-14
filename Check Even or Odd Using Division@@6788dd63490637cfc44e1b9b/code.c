@@ -4,9 +4,9 @@ int main(){
     scanf("%d", %a);
     quotient = a / 2;
     if(a == quotient * 2){
-        printf("Even");
+        printf("Even\n");
     }else{
-        printf("Odd");
+        printf("Odd\n");
     }
     return 0;
 }
